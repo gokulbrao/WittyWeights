@@ -1,0 +1,130 @@
+{
+  "description": "Curated Applied AI source registry for WittyWeights, assigned to 3 specialized journalist beats.",
+  "version": "3.0.0",
+  "beats": [
+    "systems_architecture",
+    "insurance_fintech",
+    "model_dev_optimization"
+  ],
+  "time_window_days": 7,
+  "sources": {
+    "systems_architecture": [
+      {
+        "name": "Cursor / Anysphere Blog",
+        "url": "https://www.cursor.com/blog/feed.xml",
+        "type": "rss",
+        "reputation_weight": 0.96,
+        "category": "Codebase Indexing & Agent Context"
+      },
+      {
+        "name": "GitHub Next & Engineering",
+        "url": "https://github.blog/category/engineering/feed/",
+        "type": "rss",
+        "reputation_weight": 0.98,
+        "category": "Developer Tooling & Copilot Architecture"
+      },
+      {
+        "name": "Netflix Technology Blog",
+        "url": "https://netflixtechblog.com/feed",
+        "type": "rss",
+        "reputation_weight": 0.95,
+        "category": "Large-Scale Multimodal Retrieval & Systems"
+      },
+      {
+        "name": "DoorDash Engineering",
+        "url": "https://doordash.engineering/feed/",
+        "type": "rss",
+        "reputation_weight": 0.92,
+        "category": "Real-Time Dispatch & Edge Inference"
+      },
+      {
+        "name": "Modal Labs Blog",
+        "url": "https://modal.com/blog-rss.xml",
+        "type": "rss",
+        "reputation_weight": 0.92,
+        "category": "Serverless GPU Infra & Cold Starts"
+      },
+      {
+        "name": "Andrej Karpathy Tech Dives",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO4MzqnPOxZ4oTxPtw",
+        "type": "youtube_feed",
+        "reputation_weight": 0.99,
+        "category": "Production Agent Architecture Breakdowns"
+      }
+    ],
+    "insurance_fintech": [
+      {
+        "name": "Lemonade AI & Tech Blog",
+        "url": "https://www.lemonade.com/blog/feed/",
+        "type": "rss",
+        "reputation_weight": 0.97,
+        "category": "InsurTech, Vision Claims & Autonomous FNOL"
+      },
+      {
+        "name": "Munich Re Tech Insights",
+        "url": "https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/rss.xml",
+        "type": "rss",
+        "reputation_weight": 0.95,
+        "category": "Underwriting Risk Models & Reinsurance AI"
+      },
+      {
+        "name": "Stripe Engineering",
+        "url": "https://stripe.com/blog/feed.rss",
+        "type": "rss",
+        "reputation_weight": 0.96,
+        "category": "Financial Dispute State Machines & Fraud Agents"
+      },
+      {
+        "name": "Jane Street Tech Blog",
+        "url": "https://blog.janestreet.com/feed.xml",
+        "type": "rss",
+        "reputation_weight": 0.95,
+        "category": "High-Throughput Algorithmic Systems"
+      },
+      {
+        "name": "Two Sigma Engineering",
+        "url": "https://www.twosigma.com/feed/",
+        "type": "rss",
+        "reputation_weight": 0.92,
+        "category": "Financial Feature Stores & Time Series"
+      }
+    ],
+    "model_dev_optimization": [
+      {
+        "name": "Google DeepMind",
+        "url": "https://deepmind.google/discover/blog/rss.xml",
+        "type": "rss",
+        "reputation_weight": 0.99,
+        "category": "RL from Verifiable Rewards & Test-Time Search"
+      },
+      {
+        "name": "NVIDIA Technical Blog",
+        "url": "https://developer.nvidia.com/blog/feed",
+        "type": "rss",
+        "reputation_weight": 0.96,
+        "category": "FP4/FP8 Quantization & TensorRT-LLM"
+      },
+      {
+        "name": "Mistral AI News",
+        "url": "https://mistral.ai/news/rss",
+        "type": "rss",
+        "reputation_weight": 0.94,
+        "category": "Efficient MoE Architectures & Open Weights"
+      },
+      {
+        "name": "Anthropic Research",
+        "url": "https://www.anthropic.com/news/rss",
+        "type": "rss",
+        "reputation_weight": 0.98,
+        "category": "Prompt Caching & Context Optimization"
+      },
+      {
+        "name": "Two Sigma Research",
+        "url": "https://www.twosigma.com/feed/",
+        "type": "rss",
+        "reputation_weight": 0.92,
+        "category": "State Space Models (SSMs) & Continuous-Time AI"
+      }
+    ]
+  }
+}

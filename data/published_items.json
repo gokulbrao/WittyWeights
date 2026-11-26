@@ -1,0 +1,100 @@
+{
+  "282ddcdefe52ad7b13c2cc22e9dd0d1fb168d908702232712e308046e9c03da4": {
+    "headline": "Automating Collision Appraisal from 5 Days to 90 Seconds",
+    "canonical_url": "https://lemonade.com/blog/autonomous-damage-appraisal-vision-agents",
+    "beat": "insurance_fintech",
+    "issue_number": 1,
+    "published_at": "2026-11-25T05:29:09.558467+00:00"
+  },
+  "489dda7ad571b7a9c226e8e93ba9318accd6ab02f4526b40efb2cd57f3abedc3": {
+    "headline": "Commercial Property Underwriting: Ingesting 200-Page Loss Runs in 45 Minutes",
+    "canonical_url": "https://munichre.com/tech/commercial-underwriting-agentic-loss-runs",
+    "beat": "insurance_fintech",
+    "issue_number": 1,
+    "published_at": "2026-11-25T05:29:09.558467+00:00"
+  },
+  "e839dd6ebb3449f6cac784d4e1e49d43810ec623f12bce4369d8fadc3138756e": {
+    "headline": "Automating $50M in Merchant Disputes with Deterministic State Machines",
+    "canonical_url": "https://stripe.com/blog/automating-chargeback-disputes-agentic-systems",
+    "beat": "insurance_fintech",
+    "issue_number": 1,
+    "published_at": "2026-11-25T05:29:09.558467+00:00"
+  },
+  "493b32646afa8d63c749da63a8eaafcfce01c3573dffc7e42d1919a23354cb19": {
+    "headline": "Sub-Second Semantic Search Across 10-Million-Line Repositories",
+    "canonical_url": "https://www.cursor.com/blog/instant-codebase-indexing-merkle",
+    "beat": "systems_architecture",
+    "issue_number": 1,
+    "published_at": "2026-11-25T05:29:09.558467+00:00"
+  },
+  "d181325388be40135fc2e8365c40703e4edd1d508e549e7861279d85a1b80329": {
+    "headline": "FP4 Quantization on Blackwell: Slashing Memory Bandwidth",
+    "canonical_url": "https://developer.nvidia.com/blog/production-fp4-quantization-blackwell",
+    "beat": "model_dev_optimization",
+    "issue_number": 1,
+    "published_at": "2026-11-25T05:29:09.558467+00:00"
+  },
+  "43f2bb35370bbf2f59ede8d7f37f67699e2e0c6737f9840299f8950f8313917f": {
+    "headline": "Scaling Test-Time Compute: Search and Verifiers Beat 10x Parameter Scale",
+    "canonical_url": "https://deepmind.google/discover/blog/scaling-test-time-compute",
+    "beat": "model_dev_optimization",
+    "issue_number": 2,
+    "published_at": "2026-11-26T03:10:14.140214+00:00"
+  },
+  "344a80141f41e0a0f981995a50c6739177eeceb61d410ccc0202a892156f4709": {
+    "headline": "Parametric Flood Claims: Automating Commercial Payouts via Satellite Radar",
+    "canonical_url": "https://zurich.com/tech/parametric-flood-radar-claims",
+    "beat": "insurance_fintech",
+    "issue_number": 2,
+    "published_at": "2026-11-26T03:10:14.140214+00:00"
+  },
+  "ec89b1a7409a1c2e7358c531b9e6bf37a77688f6f5f8d4c87cf9b83f457689ea": {
+    "headline": "Multimodal Video Search: Sub-50ms Frame Retrieval Across 100M Assets",
+    "canonical_url": "https://netflixtechblog.com/multimodal-video-frame-search-scale",
+    "beat": "systems_architecture",
+    "issue_number": 2,
+    "published_at": "2026-11-26T03:10:14.140214+00:00"
+  },
+  "324013230078cfccdff78a130fbda6ae63f5b6e206b0bfa8698497fca11f9ab2": {
+    "headline": "The Anatomy of a Production Autonomous Coding Agent",
+    "canonical_url": "https://www.youtube.com/watch?v=agent-architecture-deep-dive",
+    "beat": "systems_architecture",
+    "issue_number": 2,
+    "published_at": "2026-11-26T03:10:14.140214+00:00"
+  },
+  "0c104f6aada50108cf615f1d238a7cc4a964163eb81288afaf25aa607a8dedcb": {
+    "headline": "Compiler-Guided Speculative Agent Loops Cut API Errors by 46%",
+    "canonical_url": "https://github.blog/engineering/copilot-workspace-compiler-loops",
+    "beat": "systems_architecture",
+    "issue_number": 2,
+    "published_at": "2026-11-26T03:10:14.140214+00:00"
+  },
+  "0e5db32b99ff73160be5862db567bce740727c40de51f401ee2bd0bcf32b5b41": {
+    "headline": "Edge Telematics: Continuous Driving Risk Modeling on Mobile Neural Engines",
+    "canonical_url": "https://root.engineering/edge-telematics-mobile-risk-models",
+    "beat": "insurance_fintech",
+    "issue_number": 3,
+    "published_at": "2026-11-26T03:10:42.610032+00:00"
+  },
+  "302700a1cf645845153106fd40b19911bb843786340d584a93d96b318cec2de5": {
+    "headline": "Zero-Allocation ML Inference in Production OCaml Systems",
+    "canonical_url": "https://blog.janestreet.com/zero-allocation-inference-ocaml",
+    "beat": "insurance_fintech",
+    "issue_number": 3,
+    "published_at": "2026-11-26T03:10:42.610032+00:00"
+  },
+  "f39d0a4ffce644babb1947b0dc428550da5d4c5ef365572770637bd993d41e14": {
+    "headline": "Mistral Large 3: Apache 2.0 Open Weights with Native Tool Calling",
+    "canonical_url": "https://mistral.ai/news/mistral-large-3",
+    "beat": "model_dev_optimization",
+    "issue_number": 3,
+    "published_at": "2026-11-26T03:10:42.610032+00:00"
+  },
+  "6f52903a3084ebc258269016bd3b6ba47474612a761252d0af1d822a24616032": {
+    "headline": "State Space Models for Irregularly Sampled Financial Time Series",
+    "canonical_url": "https://www.twosigma.com/articles/state-space-models-financial-time-series",
+    "beat": "model_dev_optimization",
+    "issue_number": 3,
+    "published_at": "2026-11-26T03:10:42.610032+00:00"
+  }
+}
